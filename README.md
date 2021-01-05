@@ -3,4 +3,4 @@ Nano function from Linux
 
 Add into profile to be able to use on startup
 
-Welcome to optimization
+Welcome to optimization suggestions
